@@ -1,0 +1,10 @@
+.blog-list-items-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blogs-list {
+  padding-left: 0px;
+}
